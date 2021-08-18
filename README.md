@@ -11,5 +11,5 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./solutions/125.%20Valid%20Palindrome.cpp)|4 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|29 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|8 ms|
-|234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|164 ms|
+|234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|144 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|0 ms|
