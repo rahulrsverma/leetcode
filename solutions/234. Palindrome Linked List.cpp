@@ -21,11 +21,3 @@ public:
     }
     if (fastp) slowp = slowp->next;
     while (slowp && revp){
-        if (slowp->val != revp->val) return false;
-        slowp = slowp->next;
-        revp = revp->next;
-    }
-    return true;
-        
-    }
-};
