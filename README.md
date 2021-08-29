@@ -18,6 +18,7 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|29 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|0 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|8 ms|
+|225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./solutions/225.%20Implement%20Stack%20using%20Queues.cpp)|0 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|144 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|0 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|4 ms|
